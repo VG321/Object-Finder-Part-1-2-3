@@ -1,0 +1,26 @@
+body{
+    background-size: cover;
+}
+
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+
+#start, #number_of_ojects, #status{
+    font-size: 18px;
+}
+
+.copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+canvas{
+    border: 5px;
+    border-style: dashed;
+    box-shadow: 1px 1px 10px rebeccapurple;
+    margin-top: 100px;
+}
